@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\DPTO\DPTO.Dto\bin\Debug\netstandard2.0\DPTO.Dto.deps.json
+C:\Users\User\source\repos\DPTO\DPTO.Dto\bin\Debug\netstandard2.0\DPTO.Dto.dll
+C:\Users\User\source\repos\DPTO\DPTO.Dto\bin\Debug\netstandard2.0\DPTO.Dto.pdb
+C:\Users\User\source\repos\DPTO\DPTO.Dto\obj\Debug\netstandard2.0\DPTO.Dto.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DPTO\DPTO.Dto\obj\Debug\netstandard2.0\DPTO.Dto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DPTO\DPTO.Dto\obj\Debug\netstandard2.0\DPTO.Dto.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DPTO\DPTO.Dto\obj\Debug\netstandard2.0\DPTO.Dto.AssemblyInfo.cs
+C:\Users\User\source\repos\DPTO\DPTO.Dto\obj\Debug\netstandard2.0\DPTO.Dto.dll
+C:\Users\User\source\repos\DPTO\DPTO.Dto\obj\Debug\netstandard2.0\DPTO.Dto.pdb
